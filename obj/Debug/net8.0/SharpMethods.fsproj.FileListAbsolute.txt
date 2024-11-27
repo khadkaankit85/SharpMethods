@@ -27,3 +27,4 @@
 /home/khadka_angkit/Computer Programming/F#/SharpMethods/obj/Debug/net8.0/SharpMethods.pdb
 /home/khadka_angkit/Computer Programming/F#/SharpMethods/obj/Debug/net8.0/SharpMethods.genruntimeconfig.cache
 /home/khadka_angkit/Computer Programming/F#/SharpMethods/obj/Debug/net8.0/ref/SharpMethods.dll
+/home/khadka_angkit/Computer Programming/F#/SharpMethods/obj/Debug/net8.0/SharpMethods.sourcelink.json
