@@ -10,7 +10,7 @@ open System.Reflection
 [<assembly: System.Reflection.AssemblyCompanyAttribute("SharpMethods")>]
 [<assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")>]
 [<assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")>]
-[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf201d47ef3881654f07863d844c342b3c8fdc91")>]
+[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+981635f2b506b64e23201ff8bb02c6ed2b8a3d72")>]
 [<assembly: System.Reflection.AssemblyProductAttribute("SharpMethods")>]
 [<assembly: System.Reflection.AssemblyTitleAttribute("SharpMethods")>]
 [<assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")>]

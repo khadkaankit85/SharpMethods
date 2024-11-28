@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Include="lab2.fs" />
+    <Compile Include="lab22.fs" />
   </ItemGroup>
 
 </Project>
